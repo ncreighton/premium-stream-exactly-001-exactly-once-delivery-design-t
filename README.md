@@ -1,0 +1,2 @@
+# premium-stream-exactly-001-exactly-once-delivery-design-t
+You're building a streaming pipeline and your team just lost data—or processed it twice. Exactly-once delivery isn't optional anymore, it's the difference between a system you trust and one that costs you.  The Exactly-Once Delivery Design Template cuts through the complexity of idempotency, checkpointing, and state management by giving you a battl
